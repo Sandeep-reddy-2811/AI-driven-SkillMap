@@ -1,5 +1,0 @@
-.env
-*.xlsx
-__pycache__/
-*.pyc
-test_groq.py
